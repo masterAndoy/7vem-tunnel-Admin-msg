@@ -1,8 +1,8 @@
 {
-     "Message_version": "0",
+     "Message_version": "1",
      "Use Ads IDS": false,
      "My Ads IDS": {
-          "Ad ID": "sample",
+          "Ad ID": "ca-app-pub-3159724284420719~1824020546",
           "Ad Banner": "ca-app-pub-3940256099942544/6300978111",
           "Ad Interstitial": "ca-app-pub-3940256099942544/1033173712",
           "Ad Rewarded": "ca-app-pub-3940256099942544/5224354917",
