@@ -1,13 +1,12 @@
 {
-    "Message_version": "1",
-    "My_Message": "📌📌BASA📌📌
-    PAALALA PO SA MGA GUMAGAMIT NG GTM NOLOAD 1TAP..
-    ✅MAY BLOCKING
-    ✅LIMIT LANG SIGURO ATLEAST 900mb DAILY
-    ✅TRY NYO MAG IP HUNT BAGO MAG CONNECT
-    💯Mas SAFE pa Rin Ang GTM IP HUNT
-👉 For more queries, pm me directly
-🔗https://m.me/petevalientejr
-
-Your Connection matters to Us."
+     "Message_version": "0",
+     "Use Ads IDS": false,
+     "My Ads IDS": {
+          "Ad ID": "sample",
+          "Ad Banner": "ca-app-pub-3940256099942544/6300978111",
+          "Ad Interstitial": "ca-app-pub-3940256099942544/1033173712",
+          "Ad Rewarded": "ca-app-pub-3940256099942544/5224354917",
+          "Ad OpenApp": "sample"
+     },
+     "My_Message": "📌📌BASA📌📌\n    PAALALA PO SA MGA GUMAGAMIT NG GTM NOLOAD 1TAP..\n    ✅MAY BLOCKING\n    ✅LIMIT LANG SIGURO ATLEAST 900mb DAILY\n    ✅TRY NYO MAG IP HUNT BAGO MAG CONNECT\n    💯Mas SAFE pa Rin Ang GTM IP HUNT\n👉 For more queries, pm me directly\n🔗https://m.me/petevalientejr\n\nYour Connection matters to Us."
 }
